@@ -28,6 +28,8 @@ const Header = ({ currentUser }) => (
           SIGN IN
         </Link>
       )}
+
+      {/* <Cart currentUser={currentUser} /> */}
     </div>
   </div>
 );
